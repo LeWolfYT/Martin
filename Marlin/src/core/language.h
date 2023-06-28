@@ -268,7 +268,7 @@
 #define STR_DEBUG_COMMUNICATION             "COMMUNICATION"
 #define STR_DEBUG_DETAIL                    "DETAIL"
 
-#define STR_PRINTER_LOCKED                  "Printer locked! (Unlock with M511 or LCD)"
+#define STR_PRINTER_LOCKED                  "Printer locked! (Unlock with a lockpick)"
 #define STR_WRONG_PASSWORD                  "Incorrect Password"
 #define STR_PASSWORD_TOO_LONG               "Password too long"
 #define STR_PASSWORD_REMOVED                "Password removed"
