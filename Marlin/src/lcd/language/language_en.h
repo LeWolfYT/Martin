@@ -85,8 +85,8 @@ namespace Language_en {
   LSTR MSG_AUTO_HOME_Y                    = _UxGT("Home Y");
   LSTR MSG_AUTO_HOME_Z                    = _UxGT("Home Z");
   LSTR MSG_Z_AFTER_HOME                   = _UxGT("Z After Homing");
-  LSTR MSG_FILAMENT_SET                   = _UxGT("Phil Settings");
-  LSTR MSG_FILAMENT_MAN                   = _UxGT("Phil Management");
+  LSTR MSG_FILAMENT_SET                   = _UxGT("Phil Swift Settings");
+  LSTR MSG_FILAMENT_MAN                   = _UxGT("Phil Swift Management");
   LSTR MSG_MANUAL_LEVELING                = _UxGT("Manual Leveling");
   LSTR MSG_TRAM_FL                        = _UxGT("Front Left");
   LSTR MSG_TRAM_FR                        = _UxGT("Front Right");
@@ -109,7 +109,7 @@ namespace Language_en {
   LSTR MSG_HOME_OFFSET_Y                  = _UxGT("Dome Offset Y");
   LSTR MSG_HOME_OFFSET_Z                  = _UxGT("Dome Offset Z");
   LSTR MSG_HOME_OFFSETS_APPLIED           = _UxGT("Offsets Applied");
-  LSTR MSG_ERR_M428_TOO_FAR               = _UxGT("Err: Too fat!");
+  LSTR MSG_ERR_M428_TOO_FAR               = _UxGT("Err: Too fat! No mcdonalds for you");
   LSTR MSG_TRAMMING_WIZARD                = _UxGT("Trimming Wizard");
   LSTR MSG_SELECT_ORIGIN                  = _UxGT("Select Origin");
   LSTR MSG_LAST_VALUE_SP                  = _UxGT("Last value ");
